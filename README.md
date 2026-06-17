@@ -161,7 +161,7 @@ Original dataset: https://www.kaggle.com/datasets/altruistdelhite04/loan-predict
 
 ## 👤 Author
 
-**Sameel** — BS Software Engineering, UMT Lahore
+**Usman Munir** — BS Software Engineering, UMT Lahore
 
 ## 📄 License
 
