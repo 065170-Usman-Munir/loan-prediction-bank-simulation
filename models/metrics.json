@@ -1,0 +1,50 @@
+{
+  "Logistic Regression": {
+    "Accuracy": 0.8943,
+    "Precision": 0.8824,
+    "Recall": 0.989,
+    "F1": 0.9326,
+    "cm": [
+      [
+        20,
+        12
+      ],
+      [
+        1,
+        90
+      ]
+    ]
+  },
+  "Decision Tree": {
+    "Accuracy": 0.8618,
+    "Precision": 0.87,
+    "Recall": 0.956,
+    "F1": 0.911,
+    "cm": [
+      [
+        19,
+        13
+      ],
+      [
+        4,
+        87
+      ]
+    ]
+  },
+  "Random Forest": {
+    "Accuracy": 0.8537,
+    "Precision": 0.8687,
+    "Recall": 0.9451,
+    "F1": 0.9053,
+    "cm": [
+      [
+        19,
+        13
+      ],
+      [
+        5,
+        86
+      ]
+    ]
+  }
+}

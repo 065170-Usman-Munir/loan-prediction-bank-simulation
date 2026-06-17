@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+node_modules/
+*.pdf
+package*.json
+build_report.js
+build_deck.js
+make_dataset.py
