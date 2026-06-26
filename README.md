@@ -113,8 +113,7 @@ Opens the interactive 4-page dashboard in your browser (default: http://localhos
 | **1. Project Overview** | Goals, scope, tech stack |
 | **2. Dataset Analysis** | Full EDA with visualizations & conclusions |
 | **3. Loan Prediction** | Enter income, loan amount, education, credit history, property area → **Approved / Rejected** |
-| **4. Simulation** | Adjust tellers / arrival / service rate → live waiting time, customers served, queue length & utilization graphs |
-| **5. Loan Counter Simulation** | Loan Application Counter using the **existing trained model**. Daily/Weekly/Monthly/Yearly modes, speed controls, live event log, live stats, final report & 5 charts |
+| **4. Loan Counter Simulation** | Loan Application Counter using the **existing trained model**. Daily/Weekly/Monthly/Yearly modes, speed controls, live event log, live stats, final report & 5 charts |
 
 ---
 
